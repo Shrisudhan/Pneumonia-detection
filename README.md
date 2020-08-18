@@ -1,0 +1,1 @@
+The repository focuses on pneumonia detection based on X-rays scans dataset obtained from Kaggle competition. The network used in this resembles Faster R-CNN models with ResNet backbone for both region of interest prediction and image classification. The notebook contains the network, training function and testing function.
